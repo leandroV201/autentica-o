@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63716382293",
+    "project_id": "apraxiaa-exemplo",
+    "storage_bucket": "apraxiaa-exemplo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63716382293:android:0010937441e62ea7e566dc",
+        "android_client_info": {
+          "package_name": "com.apra.auth.apra_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63716382293-4h9lc3q47vntfoqh4ts4jbug21akf5f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apra.auth.apra_auth",
+            "certificate_hash": "763e594cea7493b87e0e7526e88113ebcf2607d7"
+          }
+        },
+        {
+          "client_id": "63716382293-ufoag1ggsbr5f0vsjkpcg3nceugiserl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOLDArpKTVhqHpfLgNMRRA4nHxbmN9tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63716382293-ufoag1ggsbr5f0vsjkpcg3nceugiserl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
