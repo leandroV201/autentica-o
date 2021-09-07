@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04068b6f-07a5-4d7d-a355-9ee72095c8e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xUQs6b6hO5s39x7S6kyrAqTy62" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04068b6f-07a5-4d7d-a355-9ee72095c8e4" name="Default Changelist" comment="" />
+      <created>1630407399701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630407399701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1630782481706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1630782481706" />
+    <state x="127" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630417228396">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="127" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1630417228396" />
+    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1630412178142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1630412178142" />
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1630782664249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1630782664249" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1630527231436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1630527231436" />
+    <state width="1237" height="106" key="GridCell.Tab.0.bottom" timestamp="1631016806043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
+    <state width="1237" height="106" key="GridCell.Tab.0.center" timestamp="1631016806043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
+    <state width="1237" height="106" key="GridCell.Tab.0.left" timestamp="1631016806043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
+    <state width="1237" height="106" key="GridCell.Tab.0.right" timestamp="1631016806043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1630936845499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1630936845499" />
+    <state x="214" y="24" key="new project wizard" timestamp="1630786418209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="214" y="24" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1630786418209" />
+    <state x="453" y="152" width="672" height="677" key="run.anything.popup" timestamp="1630407761733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="152" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1630407761733" />
+    <state x="459" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1630411987907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="459" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1630411987907" />
+  </component>
+</project>
