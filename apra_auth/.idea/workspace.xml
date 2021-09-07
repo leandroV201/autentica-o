@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auth_scree" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -67,34 +67,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1630782664249" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1630527231436">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1631023269020">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1630527231436" />
-    <state width="1237" height="106" key="GridCell.Tab.0.bottom" timestamp="1631016806043">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631023269020" />
+    <state width="1222" height="141" key="GridCell.Tab.0.bottom" timestamp="1631023269097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
-    <state width="1237" height="106" key="GridCell.Tab.0.center" timestamp="1631016806043">
+    <state width="1222" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631023269097" />
+    <state width="1222" height="141" key="GridCell.Tab.0.center" timestamp="1631023269097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
-    <state width="1237" height="106" key="GridCell.Tab.0.left" timestamp="1631016806043">
+    <state width="1222" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631023269097" />
+    <state width="1222" height="141" key="GridCell.Tab.0.left" timestamp="1631023269097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
-    <state width="1237" height="106" key="GridCell.Tab.0.right" timestamp="1631016806043">
+    <state width="1222" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631023269097" />
+    <state width="1222" height="141" key="GridCell.Tab.0.right" timestamp="1631023269097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631016806043" />
+    <state width="1222" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631023269097" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1630936845499">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1630936845499" />
-    <state x="214" y="24" key="new project wizard" timestamp="1630786418209">
+    <state x="214" y="0" key="new project wizard" timestamp="1631019618973">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="214" y="24" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1630786418209" />
+    <state x="214" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1631019618973" />
     <state x="453" y="152" width="672" height="677" key="run.anything.popup" timestamp="1630407761733">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -1,4 +1,4 @@
-// @dart=2.9
+
 import 'package:apra_auth/authetication_service.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
 class AuthenticationWrapper extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final firebaseuser = context.watch<User>();
+    final firebaseuser = context.watch<User?>();
 
 
     if (firebaseuser != null) {
