@@ -1,4 +1,0 @@
-#Tue Sep 28 08:13:07 BRT 2021
-base.0=C\:\\Users\\CBS\\Documents\\dc\\IFPI 2021\\flutter\\apra_auth\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
