@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/apra/auth/apra_auth/BuildConfig.java
+ com.apra.auth.apra_auth.BuildConfig
