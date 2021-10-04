@@ -16,6 +16,9 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
+  IconData icone = Icons.visibility;
+  IconData iconeoff = Icons.visibility_off;
+  bool isHiddenPassword = true;
   late String _email, _password;
   final auth = FirebaseAuth.instance;
   final GoogleSignIn _googleSignIn = GoogleSignIn();
@@ -40,9 +43,26 @@ class _LoginScreenState extends State<LoginScreen> {
           ),
           Padding(
             padding: const EdgeInsets.all(8.0),
-            child: TextField(
-              obscureText: true,
-              decoration: InputDecoration(hintText: 'Password'),
+            child: TextFormField(
+              enableInteractiveSelection: false,
+              obscureText: isHiddenPassword,
+              decoration: InputDecoration(
+                  hintText: 'Password',
+                  suffixIcon: IconButton(
+                      icon: isHiddenPassword == true
+                          ? Icon(
+                              Icons.visibility_off,
+                              color: Colors.grey,
+                            )
+                          : Icon(
+                              Icons.visibility,
+                              color: Colors.grey,
+                            ),
+                      onPressed: () {
+                        setState(() {
+                          isHiddenPassword = !isHiddenPassword;
+                        });
+                      })),
               onChanged: (value) {
                 setState(() {
                   _password = value.trim();
@@ -110,6 +130,16 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           )
         ]));
+  }
+
+  void _togglePasswordView() {
+    setState(() {
+      if (isHiddenPassword == true) {
+        isHiddenPassword = false;
+      } else {
+        isHiddenPassword = true;
+      }
+    });
   }
 
   Future<void> useGoogleAuthentication() async {}

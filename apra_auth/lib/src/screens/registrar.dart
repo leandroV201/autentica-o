@@ -9,9 +9,9 @@ class SignUpScreen extends StatefulWidget {
 }
 
 class _SignUpScreenState extends State<SignUpScreen> {
-  late String _email, _password,_confirmPassword;
+  late String _email, _password, _confirmPassword;
   final auth = FirebaseAuth.instance;
-
+  bool isHiddenPassword =true;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -35,7 +35,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
             padding: const EdgeInsets.all(8.0),
             child: TextField(
               enableInteractiveSelection: false,
-              obscureText: true,
+              obscureText: isHiddenPassword,
               decoration: InputDecoration(hintText: 'Password'),
               onChanged: (value) {
                 setState(() {
@@ -48,7 +48,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
             padding: const EdgeInsets.all(8.0),
             child: TextField(
               enableInteractiveSelection: false,
-              obscureText: true,
+              obscureText: isHiddenPassword,
               decoration: InputDecoration(hintText: 'Re-enter Password'),
               onChanged: (value) {
                 setState(() {
@@ -57,17 +57,16 @@ class _SignUpScreenState extends State<SignUpScreen> {
               },
             ),
           ),
-          
           MaterialButton(
-            onPressed: () {if(_password==_confirmPassword){
-              auth
-                  .createUserWithEmailAndPassword(
-                      email: _email, password: _password)
-                  .then((_) {
-                Navigator.of(context).pushReplacement(
-                    MaterialPageRoute(builder: (context) => VerifyScreen()));
-              });          
-                        
+            onPressed: () {
+              if (_password == _confirmPassword) {
+                auth
+                    .createUserWithEmailAndPassword(
+                        email: _email, password: _password)
+                    .then((_) {
+                  Navigator.of(context).pushReplacement(
+                      MaterialPageRoute(builder: (context) => VerifyScreen()));
+                });
               }
             },
             height: 60,
